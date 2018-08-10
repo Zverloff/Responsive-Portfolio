@@ -196,7 +196,7 @@ input {
     font-weight: bold;
 }
 
-@media screen and (device-width: 640px) {
+@media (max-width: 640px) {
     .top {
         position: static;
         width: 100%;
@@ -204,7 +204,7 @@ input {
     }
 }
 
-@media screen and (device-width: 768px) {
+@media (max-width: 768px) {
     .top {
         position: static;
         width: 100%;
