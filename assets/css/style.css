@@ -197,7 +197,7 @@ input {
 }
 
 @media screen and (device-width: 640px) {
-    .name {
+    .top {
         position: static;
         width: 100%;
 
@@ -205,7 +205,7 @@ input {
 }
 
 @media screen and (device-width: 768px) {
-    .name {
+    .top {
         position: static;
         width: 100%;
 
