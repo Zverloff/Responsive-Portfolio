@@ -194,7 +194,20 @@ input {
     font-size: 16px;
     padding: 10px;
     font-weight: bold;
-
-
 }
 
+@media screen and (device-width: 640px) {
+    .name {
+        position: static;
+        width: 100%;
+
+    }
+}
+
+@media screen and (device-width: 768px) {
+    .name {
+        position: static;
+        width: 100%;
+
+    }
+}
